@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Searcher</string>
+    <string name="please_wait_message">Please, wait</string>
+    <string name="position">position</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
